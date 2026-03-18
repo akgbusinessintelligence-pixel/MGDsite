@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export CPATH=/home/mgdautodealer/public_html/site
+    - /bin/cp -R * $CPATH
