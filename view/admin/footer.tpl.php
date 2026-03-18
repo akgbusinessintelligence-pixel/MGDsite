@@ -13,7 +13,7 @@
 </div>
 </main>
 <footer> Copyright &copy;<?php echo date('Y') . ' ' . $this->core->company; ?>
-  <i class="icon middle wojologo"></i> Powered by: wojo works v <?php echo $this->core->wojov; ?>
+  <i class="icon middle wojologo"></i> Powered by: New Jersey Technology Group
 </footer>
 <!-- Footer -->
 <?php Debug::displayInfo(); ?>
